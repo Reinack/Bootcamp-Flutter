@@ -1,16 +1,13 @@
-# flutter_application_1
+# Bootcamp BaqueanoApp
+Proyectos hechos en el contexto del bootcamp asincronico de BaqueanoApp.
 
-A new Flutter project.
+## 🧭 Estructura del Bootcamp
+El bootcamp se divide en 3 fases principales más una evaluación final integradora:
 
-## Getting Started
+# 1. 🧱 Flutter & Dart Basics
 
-This project is a starting point for a Flutter application.
+# 2. 🔄 Bloc & State Management
 
-A few resources to get you started if this is your first Flutter project:
+# 3. 🧼 Clean Architecture
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# 4. ✅ Evaluación final integradora
